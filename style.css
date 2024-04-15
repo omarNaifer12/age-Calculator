@@ -1,0 +1,28 @@
+body{
+    background:mediumslateblue;
+}
+.container{
+   
+background-color: aliceblue;
+width: 400px;
+height: 250px;
+border-radius: 5px;
+text-align: center;
+margin: 100px auto 50px;
+}
+.calculator{
+    display: flex;
+   gap: 20px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    align-items: center;
+}
+button{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
+input{
+    width: 200px;
+    height: 25px;
+}
